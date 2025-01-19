@@ -26,10 +26,10 @@
 </div>
 <hr>
 <div>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yulia-siebrandt//" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yulia-siebrandt/" target="_blank">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
   </a>
-  <a href="https://www.instagram.com/https://www.instagram.com/serenity_script//" target="_blank">
+  <a href="https://www.instagram.com/https://www.instagram.com/serenity_script/" target="_blank">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>
   </a>
   <a href="https://yulia-siebrandt.netlify.app/" target="_blank">
