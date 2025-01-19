@@ -27,7 +27,7 @@
 <hr>
 <h3 align="center">Contact me or follow me ⬇️</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/yulia-siebrandt/" target="_blank">
+  <a href="https://www.linkedin.com/in/yulia-siebrandt/" target="_blank" text-decoration="none">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>
   </a>
   <a href="https://www.instagram.com/serenity_script/" target="_blank">
