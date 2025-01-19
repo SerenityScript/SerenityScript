@@ -6,7 +6,7 @@
   <li>🚀 Always exploring new tools and frameworks to deliver efficient and user-friendly solutions.</li>
   <br>
   <li>💻 Interests: Frontend Development, CSS Magic, and Responsive Design.</li>
-  <li>📈 Currently Learning: Node.js, Tailwind, and TypeScript.</li>
+  <li>📈 Currently Learning: React.js, Node.js, Tailwind, and TypeScript.</li>
   <li>📬 Let's collaborate on your next project!</li>
 </ul>
 
@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 <hr>
+<h3 align="center">Contact me or follow me ⬇️</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/yulia-siebrandt/" target="_blank">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>
