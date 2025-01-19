@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm <a href="https://yulia-siebrandt.netlify.app/" target="_blank">Yulia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Fullstack developer from Hamburg</h3>
-🌟 Junior Full-Stack Developer
-🔧 Passionate about building scalable web applications and learning cutting-edge technologies. Skilled in JavaScript, React, Node.js, and Vite, with experience in creating dynamic user interfaces and backend APIs.
-🚀 Always exploring new tools and frameworks to deliver efficient and user-friendly solutions.
-
-💻 Interests: Frontend Development, API Integration, and Responsive Design.
-📈 Currently Learning: Advanced React Patterns, TypeScript, and Cloud Deployment.
-📬 Let's collaborate on your next project!
-
+<h3 align="center">🌟Junior Full-Stack Developer from Hamburg</h3>
+<ul>
+  <li>🔧 Passionate about building scalable web applications and learning cutting-edge technologies.</li>
+  <li>🚀 Always exploring new tools and frameworks to deliver efficient and user-friendly solutions.</li>
+  <br>
+  <li>💻 Interests: Frontend Development, CSS Magic, and Responsive Design.</li>
+  <li>📈 Currently Learning: Node.js, Tailwind, and TypeScript.</li>
+  <li>📬 Let's collaborate on your next project!</li>
+</ul>
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
