@@ -27,13 +27,14 @@
 <hr>
 <h3 align="center">Contact me or follow me ⬇️</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/yulia-siebrandt/" target="_blank" text-decoration="none">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>
+  <a href="https://www.linkedin.com/in/yulia-siebrandt/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">
   </a>
-  <a href="https://www.instagram.com/serenity_script/" target="_blank">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>
+  <a href="https://www.instagram.com/serenity_script/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30">
   </a>
-  <a href="https://yulia-siebrandt.netlify.app/" target="_blank">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>
+  <a href="https://yulia-siebrandt.netlify.app/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Website" height="30">
   </a>
 </div>
+
