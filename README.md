@@ -9,7 +9,7 @@
   <li>📈 Currently Learning: React.js, Node.js, Tailwind, and TypeScript.</li>
   <li>📬 Let's collaborate on your next project!</li>
 </ul>
-
+<hr>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -24,8 +24,12 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes
 <hr>
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
 <h3 align="center">Contact me or follow me ⬇️</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/yulia-siebrandt/" target="_blank" style="text-decoration: none;">
